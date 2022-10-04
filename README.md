@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikashkr-byte&label=Profile%20views&color=0e75b6&style=flat" alt="vikashkr-byte" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikashkr-byte" alt="vikashkr-byte" /></a> </p>
+
 
 - 🔭 I’m currently learning **react**
 
