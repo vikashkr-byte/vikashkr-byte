@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vikash-sharma-474728182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/vikash-sharma-474728182" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/vikash-sharma-474728182](https://www.linkedin.com/in/vikash-kumar-474728182/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/vikash-sharma-474728182" height="30" width="40" /></a>
 <a href="https://codesandbox.com/vikashkr-byte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="vikashkr-byte" height="30" width="40" /></a>
 </p>
 
