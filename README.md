@@ -34,9 +34,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vikashkr-byte&theme=dark&background=000000)](https://git.io/streak-stats)
 
 </td><td valign="top" width="50%">
-
-  (https://github-readme-stats.vercel.app/api?username=vikashkr-byte)
-<!-- ![Vikash Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikashkr-byte&show_icons=true&theme=radical) -->
+ 
+![Vikash Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikashkr-byte&show_icons=true&theme=radical)
 <!-- ![Vikash Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikashkr-byte&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) -->
 
 </td></tr></table>  
