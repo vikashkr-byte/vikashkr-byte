@@ -35,7 +35,7 @@
 
 </td><td valign="top" width="50%">
  
-![Vikash Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?user=vikashkr-byte&show_icons=true&theme=radical)
+![Vikash Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikashkr-byte&show_icons=true&theme=radical)
 <!-- ![Vikash Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikashkr-byte&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) -->
 
 </td></tr></table>  
